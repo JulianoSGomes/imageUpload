@@ -1,5 +1,6 @@
 #user ignores 
-/tmp
+/tmp/uploads/*
+!/tmp/uploads/.gitkeep
 
 # Logs
 logs
